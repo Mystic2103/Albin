@@ -9,7 +9,7 @@ Lets call this bot Albin for now. Since I just got into python, ill be developin
   <br>
 </h1>
 
-<h3 align=center>A multipurpose bot coded in py</h3>
+<h3 align=center>My first py bot</h3>
 
 
 <div align=center>
@@ -18,7 +18,7 @@ Lets call this bot Albin for now. Since I just got into python, ill be developin
     <img src="https://img.shields.io/badge/Made%20with-Python-1f425f.svg" alt="discordpy">
   </a>
 
-  <a href="https://github.com/Mystic2103/TARO-Discord-Music-Bot/blob/main/LICENSE">
+  <a href="https://github.com/Mystic2103/Albin/blob/main/LICENSE">
     <img src="https://img.shields.io/badge/license-MIT-blue" alt="license">
   </a>
 
@@ -27,8 +27,6 @@ Lets call this bot Albin for now. Since I just got into python, ill be developin
 <p align="center">
   <a href="#about">About</a>
   •
-  <a href="#installation">Installation</a>
-  •
   <a href="#license">License</a>
   •
   <a href="#credits">Credits</a>
@@ -36,34 +34,14 @@ Lets call this bot Albin for now. Since I just got into python, ill be developin
 
 ## About
 
-This is a simplified version of the music bot **[Taro](https://movemain2021.wixsite.com/move/taro "Taro")**
+Lets call this bot Albin for now. I just got into python, so i'll be programming the bot as I learn. Its a simple 1 file bot with barely anything yet. Currently, the bot can only display a status and show you it's ping.
 
 If you liked this repository, feel free to leave a star ⭐ and follow me, it actually means a lot.
 
-## Installation
-
-First clone the repo:
-```
-git clone https://github.com/Mystic2103/TARO-Discord-Music-Bot.git
-```
-After cloning, run:
-```
-npm install
-```
-To launch, run:
-```
-node .
-```
-
-### Emojis & Bot Token
-- You can change the emojis and bot token in: <br>
-`config.json` <br>
-
 ## License
 
-Released under the [MIT License](https://github.com/Mystic2103/TARO-Discord-Music-Bot/blob/main/LICENSE).
+Released under the [MIT License](https://github.com/Mystic2103/Albin/blob/main/LICENSE).
 
 ## Credits
 
 * **Mystic** - *head developer* - [github](https://github.com/Mystic2103)
-* **Aarony** - *developer*  - [github](https://github.com/Adriichu)
