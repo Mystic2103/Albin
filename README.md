@@ -1,0 +1,1 @@
+Lets call this bot Albin for now. Since I just got into python, ill be developing this bot as I learn. Currently, its a simple 1 file bot with barely anything yet. Currently, the bot can only display a status and show you it's ping.
