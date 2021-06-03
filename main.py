@@ -6,6 +6,7 @@ from dotenv import load_dotenv
 bot = commands.Bot(command_prefix = "!", intents = discord.Intents.default())
 token = os.getenv('DISCORD_TOKEN')
 
+
 @bot.event
 async def on_ready():
     print("Online")
