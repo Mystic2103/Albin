@@ -14,9 +14,8 @@ Lets call this bot Albin for now. Since I just got into python, ill be developin
 
 <div align=center>
   
-  <a href="https://discordpy.readthedocs.io/en/stable/">
-    <img src="[![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
-" alt="discordpy">
+  <a href="https://www.python.org/">
+    <img src="https://img.shields.io/badge/Made%20with-Python-1f425f.svg" alt="discordpy">
   </a>
 
   <a href="https://github.com/Mystic2103/TARO-Discord-Music-Bot/blob/main/LICENSE">
