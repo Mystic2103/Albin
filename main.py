@@ -1,13 +1,9 @@
-import os
 import discord
 from discord.ext import commands
-from dotenv import load_dotenv
+import json
+
 
 bot = commands.Bot(command_prefix = "!", intents = discord.Intents.default())
-
-load_dotenv()
-TOKEN = os.getenv('DISCORD_TOKEN')
-
 
 @bot.event
 async def on_ready():
@@ -21,6 +17,6 @@ async def ping(ctx):
 
 
 
-bot.run(TOKEN)
+bot.run('TOKEN')
 
 
