@@ -3,19 +3,20 @@ Lets call this bot Albin for now. Since I just got into python, ill be developin
 
 <h1 align="center">
  <br>
-  <a href="https://github.com/Mystic2103"><img src="https://cdn.discordapp.com/attachments/790834216769683486/849287489847296010/readmeeeee28qp-t500x500.png"></a>
+  <a href="https://github.com/Mystic2103"><img src="https://bit.ly/3fK4nNL"></a>
   <br>
-  Taro - The Future of Music on Discord
+  Albin - A Multipurpose Bot
   <br>
 </h1>
 
-<h3 align=center>A fully functional discord music bot</h3>
+<h3 align=center>A multipurpose bot coded in py</h3>
 
 
 <div align=center>
   
-  <a href="https://github.com/discordjs">
-    <img src="https://img.shields.io/badge/discord.js-v12.5.3-blue.svg?logo=npm" alt="discordjs">
+  <a href="https://discordpy.readthedocs.io/en/stable/">
+    <img src="[![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
+" alt="discordpy">
   </a>
 
   <a href="https://github.com/Mystic2103/TARO-Discord-Music-Bot/blob/main/LICENSE">
