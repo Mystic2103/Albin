@@ -1,6 +1,3 @@
-Lets call this bot Albin for now. Since I just got into python, ill be developing this bot as I learn. Currently, its a simple 1 file bot with barely anything yet. Currently, the bot can only display a status and show you it's ping.
-
-
 <h1 align="center">
  <br>
   <a href="https://github.com/Mystic2103"><img src="https://bit.ly/3fK4nNL"></a>
