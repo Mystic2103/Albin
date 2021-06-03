@@ -1,12 +1,10 @@
 import discord
 from discord.ext import commands
 import os
-from dotenv import load_dotenv
 
 bot = commands.Bot(command_prefix = "!", intents = discord.Intents.default())
 
-load_dotenv()
-token = os.getenv('DISCORD_TOKEN')
+
 
 @bot.event
 async def on_ready():
@@ -20,6 +18,6 @@ async def ping(ctx):
 
 
 
-bot.run(token)
+bot.run(os.getenv('TOKEN'))
 
 
